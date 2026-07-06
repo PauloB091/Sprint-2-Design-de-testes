@@ -3,7 +3,7 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste na elaboração de um documento de **Design de Testes** para a aplicação **Urban Routes**, desenvolvido como parte das atividades práticas de um bootcamp de Quality Assurance (QA). O foco do trabalho é a aplicação de técnicas sistemáticas de modelagem de testes funcionais, garantindo cobertura abrangente e rastreável das funcionalidades da aplicação.
+Este projeto consiste na elaboração de um documento de **Design de Testes** para a aplicação **Urban Routes**, desenvolvido como parte das atividades práticas do bootcamp da TripleTen de Quality Assurance (QA). O foco do trabalho é a aplicação de técnicas sistemáticas de modelagem de testes funcionais, garantindo cobertura abrangente e rastreável das funcionalidades da aplicação.
 
 O entregável principal é um conjunto de **Casos de Teste Detalhados**, construídos a partir da análise dos requisitos e da aplicação de técnicas clássicas de design de testes.
 
