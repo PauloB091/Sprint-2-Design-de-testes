@@ -1,0 +1,11 @@
+"Preencher o campo ""Nome"" no formulário ""Adicionar carteira de motorista""",,,,,,
+ ID do caso de teste,Nome do caso de teste,Pré-condição,Número da etapa,Descrição da etapa,Resultado esperado,Status
+t-1,"O campo ""Nome"" deve aceitar nomes com 2 caracteres.",O formulário para solicitar um serviço de compartilhamento de carro está aberto.,1,"Clique no botão ""Adicionar carteira de motorista"".","Não deve haver uma mensagem de erro no campo ""Nome"".",
+,,,2,"Preencha o campo ""Nome"" com o valor ""Su"".",,
+,,,3,"Remova o foco do campo ""Nome"" clicando fora dele.",,
+t-2,"O campo ""Nome"" deve aceitar nomes com 14 caracteres.",O formulário para solicitar um serviço de compartilhamento de carro está aberto.,1,"Clique no botão ""Adicionar carteira de motorista"".","Não deve haver uma mensagem de erro no campo ""Nome"".",
+,,,2,"Preencha o campo ""Nome"" com o valor ""Ana Paula Ana "".",,
+,,,3,"Remova o foco do campo ""Nome"" clicando fora dele.",,
+t-3,"O campo ""Nome"" deve aceitar nomes com mais de 14 caracteres.",O formulário para solicitar um serviço de compartilhamento de carro está aberto.,1,"Clique no botão ""Adicionar carteira de motorista"".",Deve haver uma mensagem de erro no campo nome,
+,,,2,"Preencha o campo ""Nome"" com o valor ""Ana Paula Ana Pa"".",,
+,,,3,"Remova o foco do campo ""Nome"" clicando fora dele.",,
